@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/star.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/font.spritefont</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/player_ship.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Buttons/end.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Buttons/start.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Buttons/start1.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Buttons/pause.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Enemies/basic.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Enemies/intermediate.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Projectiles/beam.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Projectiles/laser.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Drops/shield.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Enemies/boss1.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Drops/life.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/largeFont.spritefont</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Projectiles/rocket.png</File>
+    <File>D:/devs/Project4-master/Project3/Project3/Content/Title.png</File>
+  </SourceFiles>
+</SourceFileCollection>
